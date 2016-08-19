@@ -139,12 +139,6 @@ int main()
 //return 0;
 
 
-char A;
-char B;
-char C;
-
-cin >> A >> B;
-
 
 }
 
